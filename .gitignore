@@ -1,0 +1,8 @@
+*
+!/src
+!/src/*
+!/script.php
+!/input.csv
+!/composer.json
+!/.gitignore
+!/readme.md
